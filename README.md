@@ -89,6 +89,7 @@ analyze_image('test.jpg')
 ---
 
 ## 📊 Sample Output
+![AI Recognition Results](AI-Project%20Screenshot.png)
 LABEL DETECTION
   Person — 99.2%
   Face — 98.5%
